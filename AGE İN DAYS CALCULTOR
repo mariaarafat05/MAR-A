@@ -1,0 +1,3 @@
+print (' - age in days calcultor - ')
+age = int(input('enter your age in years : ') )
+print('you have lived ' , (age*360)  , 'days')
